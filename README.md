@@ -7,7 +7,7 @@ Replit was used to write the code as it allowed me to use an IDE rather than on 
 
 Some of the challenges faced while building the application was making sure the indentations were not only correct for the program to work but for the code to be more readable. It is my understanding that this comes with practice which is something I am hoping to improve on as I build more applications.
 
-In the future I hope to implement this onto a Django webpage with multiple pages displaying varying information and formats.
+In the future I hope to implement this onto a Django webpage with multiple pages displaying varying information and formats. The main focus would possibly be a catery database with pages on caring for cats and other such aspects.
 
 <h2> How to Run the Project </h2>
 A link to run on replit has been provided, though it is currently coming up with errors which are to be fixed. 
