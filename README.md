@@ -11,6 +11,7 @@ In the future I hope to implement this onto a Django webpage with multiple pages
 
 <h2> How to Run the Project </h2>
 A link to run on replit has been provided, though it is currently coming up with errors which are to be fixed. 
+
 [![Run on Repl.it](https://repl.it/badge/github/SabinaMcG99/Cat-Photo-App.git)](https://repl.it/github/SabinaMcG99/Cat-Photo-App.git)
 
 If you do not wish to run from this link, the alternative is to create your own application with html and css on replit, putting the code into the index.html file and running on your own replit account. 
