@@ -16,7 +16,7 @@ A link to run on replit has been provided, though it is currently coming up with
 
 If you do not wish to run from this link, the alternative is to create your own application with html and css on replit, putting the code into the index.html file and running on your own replit account. 
 
-Alternatively, if you wish  to learn how all of the page works step by step I would recommend going onto the FreeCodeCamp certification of Web Developmenet and selecting on the "create a cat photo app" task.
+Alternatively, if you wish  to learn how all of the page works step by step I would recommend going onto the FreeCodeCamp certification "Reponsive Web Design" and selecting on the "create a cat photo app" task.
 
 <h2> How to Use the Project </h2>
 To run the project on replit, once the link works, is very simple. All it takes it clicking the play button at the top of the page and selecting the output tab on the left hand size to view the page. 
